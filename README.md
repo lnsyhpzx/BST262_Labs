@@ -1,1 +1,1 @@
-# BST262_Git_Example
+# BST262 Labs
